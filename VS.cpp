@@ -45,6 +45,8 @@ public:
 	
 };
 
+#define LOG(X) { std::cout << X << std::endl; }
+
 /*
 #include<iostream>
 
